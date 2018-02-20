@@ -30,7 +30,6 @@ module.exports = function getLoveTrianglesCount(preferences = []) {
       arrLove.push(firstLover);
       arrLove.push(secondLover);
       arrLove.push(thidLover);
-      console.log(arrLove);
     };
   };
   
